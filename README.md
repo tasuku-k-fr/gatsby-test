@@ -2,3 +2,4 @@
 gatsubyでのコンテンツ作成テスト
 
 外からのpushがpublicならいけるはずか確認
+STAGING
